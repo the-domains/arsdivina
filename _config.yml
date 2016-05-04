@@ -1,0 +1,28 @@
+name: arsdivina
+favicon: null
+layout_spectrum: 0.6203438795637339
+typography_spectrum: 0.5679156086407602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4367092524189502
+  lightness: 0.9752193368040025
+  saturation: 0.05669850343838334
+  rhythmicContrast: 0.32411884190514684
+purpose: []
